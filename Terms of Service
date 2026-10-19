@@ -4,35 +4,34 @@ Last updated: 12 September 2026
 
 1. Acceptance of these Terms
 
-By installing or using locateHours2026 (the "App"), you agree to these Terms of Service.
+By installing or using Team 10 reddit Archiver (the "App"), you agree to these Terms of Service.
 
 If you do not agree to these Terms, you should not install or use the App.
 
 2. Description of the App
 
-The App is a Google Sheets tool designed to assist users in managing working-time periods within a spreadsheet.
+The App is a Google Chrome Extension tool designed to assist users in extracting and managing posts and comments published on Reddit.com.
 
-The App operates within Google Sheets and uses the permissions granted by the user to read and modify the spreadsheet in which it is being used.
+The App uses the permissions granted by the user to read and write specific local files.
 
 3. User responsibility
 
 You are responsible for:
 
-* The accuracy of information entered into your spreadsheet.
-* Checking calculations and results produced by the App.
-* Maintaining appropriate backups of your spreadsheet and data.
-* Controlling who has access to your Google account and spreadsheets.
+* The information entered into your App.
+* Maintaining appropriate backups of your data.
+* Controlling who has access to your Google account and the information (files or otherwise) created by this App.
 * Ensuring that your use of the App complies with applicable laws and regulations.
 
-The App is provided as a convenience and should not be considered a substitute for independently checking working-time records or calculations.
+The App is provided as a convenience and should not be considered a substitute for independently archiving records.
 
 4. No guarantee of accuracy
 
 Although reasonable efforts may be made to ensure that the App functions correctly, no guarantee is made that the App will always produce accurate, complete, or error-free results.
 
-You should verify important calculations and records independently.
+You should verify important records independently.
 
-The developer is not responsible for errors resulting from incorrect spreadsheet data, changes made by the user, changes to Google Sheets, or unexpected behavior of the App.
+The developer is not responsible for errors resulting from incorrect data, changes made by the user, changes to Google Chrome, or unexpected behavior of the App.
 
 5. Data and privacy
 
@@ -40,7 +39,7 @@ The App does not intentionally collect, sell, or transmit your spreadsheet data 
 
 The App's handling of information is described in the Privacy Policy.
 
-Use of Google Sheets and Google Apps Script is also subject to Google's own terms and policies.
+Use of Google Chrome Extensions is also subject to Google's own terms and policies.
 
 6. Availability and changes
 
@@ -48,19 +47,19 @@ The App is provided on an as-available basis.
 
 The developer may modify, update, suspend, or discontinue the App or any of its features at any time.
 
-Changes may be made to maintain compatibility with Google Sheets or to improve the App.
+Changes may be made to maintain compatibility with Google Cghrome or to improve the App.
 
-The developer does not guarantee that the App will remain available or compatible with future versions of Google Sheets.
+The developer does not guarantee that the App will remain available or compatible with future versions of Google Chrome.
 
 7. Limitation of liability
 
 To the extent permitted by applicable law, the developer shall not be liable for loss or damage resulting from:
 
 * Use or inability to use the App.
-* Errors or inaccuracies in spreadsheet calculations or records.
-* Loss or corruption of spreadsheet data.
-* Changes to Google Sheets, Google Apps Script, or other third-party services.
-* Unauthorized access to a user's Google account or spreadsheet.
+* Errors or inaccuracies in records.
+* Loss or corruption of data.
+* Changes to Google Chrome, or other third-party services.
+* Unauthorized access to a user's Google account or data.
 
 Nothing in these Terms excludes or limits liability where such exclusion or limitation is not permitted by applicable law.
 
@@ -74,13 +73,13 @@ You may not represent the App or its code as your own or redistribute modified o
 
 9. Third-party services
 
-The App operates using Google Sheets and Google Apps Script. These services are provided by Google and are subject to Google's own terms, policies, and availability.
+The App operates using Google Chrome. These services are provided by Google and are subject to Google's own terms, policies, and availability.
 
 The developer is not responsible for interruptions, changes, or failures of third-party services.
 
 10. Termination
 
-You may stop using the App at any time by removing it from your spreadsheet or otherwise discontinuing its use.
+You may stop using the App at any time by removing it from your extensions or otherwise discontinuing its use.
 
 The developer may discontinue the App or restrict its availability at any time.
 
