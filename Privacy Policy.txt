@@ -1,31 +1,23 @@
 Privacy Policy
 
-Last updated: 12 September 2026
+Last updated: 19th October 2026
 
 1. Introduction
 
-This Privacy Policy explains how locateHours2026 ("the App") handles information when you use the App with Google Sheets.
+This Privacy Policy explains how Team 10 Reddit Archiver ("the App") handles information when you use the App.
 
-The App is a Google Apps Script designed to help users manage working-time periods within a Google Spreadsheet.
+The App is a Google Chrome Extension designed to help users archive and manage Reddit posts and comments.
 
 2. Information the App accesses
 
-The App accesses only the Google Spreadsheet in which it is installed and used.
+The App accesses the users file system upon authorisation from the user on the machine on which it is installed and used.
 
-The App may read and modify spreadsheet data necessary to perform its functions, including:
+The App may read and modify data necessary to perform its functions, including:
 
-Reading the selected cell and spreadsheet rows
-Reading existing cell values
-Adding rows to the spreadsheet
-Modifying cell contents and formatting
-Adjusting row heights
-Moving the active cell
-
-The App requests the following Google authorization scope:
-
-https://www.googleapis.com/auth/spreadsheets.currentonly
-
-This permission allows the App to access and modify the current spreadsheet only.
+Reading files selected by the user
+Reading data directly from loaded web pages
+Saving files to the users file system
+Modifying files on the users file system
 
 3. Information the App does not collect
 
@@ -33,31 +25,27 @@ The App does not:
 
 Collect or store personal information on external servers
 Sell or share user information
-Send spreadsheet contents to the developer
+Send any data or file contents to the developer
 Access the user's Gmail, Google Drive files, Calendar, Contacts, or other Google services
 Track users across websites or services
-Use spreadsheet information for advertising
-Use spreadsheet information for profiling users
-
-All spreadsheet processing performed by the App takes place within the user's Google Sheets environment.
+Use information for advertising
+Use information for profiling users
 
 4. Data storage
 
-The App does not maintain an external database or server-side storage of user spreadsheet information.
-
-Any information entered into or modified within the spreadsheet remains subject to Google's storage and privacy policies.
+The App will save files to a location selected and authorised by the user, and to its own local Origin Private File System (OPFS) on the user's device.
 
 5. Third-party services
 
-The App uses Google Apps Script and Google Sheets to provide its functionality.
+The App uses various third party APIs and code to provide its functionality.
 
-The App does not transfer user spreadsheet data to any third-party service.
+The App does not transfer user data to any third-party service.
 
 6. Data security
 
-Because the App does not transmit or store spreadsheet information on external servers, the App itself does not maintain a separate copy of users' spreadsheet data.
+Because the App does not transmit or store any information on external servers, the App itself does not maintain a separate copy of users' data.
 
-Users are responsible for maintaining appropriate security for their Google account and spreadsheet, including controlling who has access to the spreadsheet.
+Users are responsible for maintaining appropriate security for their Google account, including controlling who has access to their device and account.
 
 7. Children's privacy
 
