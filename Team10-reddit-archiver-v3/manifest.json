@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Team 10 Reddit Archiver",
+  "version": "3.0.0",
+  "description": "Capture a Reddit post and every comment, flag comments of interest, add information entries with quotes from the post or comments, build working documents, and export DOCX / TXT / a one-page ad-free PDF, or copy the DOCX content to the clipboard.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon64.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon64.png",
+      "128": "icons/icon128.png"
+    },
+    "default_popup": "popup.html",
+    "default_title": "Archive this Reddit thread"
+  },
+  "permissions": ["activeTab", "scripting", "storage", "downloads", "clipboardWrite", "debugger"],
+  "host_permissions": [
+    "https://*.reddit.com/*",
+    "https://*.redd.it/*",
+    "https://*.redditmedia.com/*",
+    "https://*.redditstatic.com/*"
+  ]
+}
